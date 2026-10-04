@@ -19,7 +19,7 @@ export default function LandingPage() {
           </nav>
           <div className="flex items-center space-x-3">
             <a 
-              href="https://github.com" 
+              href="https://github.com/matthewb2/webdoc3.git" 
               target="_blank" 
               rel="noopener noreferrer"
               className="flex items-center space-x-2 bg-slate-900 hover:bg-slate-800 text-white px-4 py-2 rounded-xl text-sm font-medium transition shadow-sm"
@@ -137,7 +137,7 @@ export default function LandingPage() {
             </div>
             <span className="text-lg font-bold text-white tracking-tight">Doc3</span>
           </div>
-          <p className="text-sm text-slate-500">© 2026 Doc3 Project. All rights reserved.</p>
+          <p className="text-sm text-slate-500">© 2026 Doc3 Project. 엠케이솔루션 제공</p>
           <div className="flex space-x-6 text-sm">
             <a href="https://github.com" target="_blank" rel="noopener noreferrer" className="hover:text-white transition">GitHub</a>
             <a href="#about" className="hover:text-white transition">이용약관</a>
