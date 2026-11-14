@@ -71,7 +71,7 @@ export default function LandingPage() {
             </a>
             {/* 윈도우즈 버전 다운로드 버튼 */}
             <a 
-              href="https://drive.google.com/file/d/18TSf-zP4h_JglA8rCbYSwcoU6bcJpWnk/view?usp=sharing" 
+              href="https://drive.google.com/file/d/1ahF23nER6zs0JIstQhtnsLK1LBpTzD3i/view?usp=sharing" 
               download
               className="w-full sm:w-auto flex items-center justify-center space-x-2 bg-slate-900 hover:bg-slate-800 text-white px-8 py-3.5 rounded-xl font-semibold transition shadow-lg shadow-slate-900/20"
             >
