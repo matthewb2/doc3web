@@ -52,8 +52,7 @@ export default function LandingPage() {
             <span>가볍고 빠른 오픈 워드프로세서 대안</span>
           </div>
           <h1 className="text-4xl lg:text-6xl font-extrabold tracking-tight text-slate-900 leading-tight">
-            복잡함을 덜어낸 혁신적인 문서 편집,<br />
-            <span className="text-blue-600">DOC3</span>와 함께 시작하세요.
+            복잡함을 덜어낸 혁신적인 문서 편집<span className="text-blue-600">DOC3</span>와 함께 시작하세요
           </h1>
           <p className="text-lg lg:text-xl text-slate-600 max-w-2xl mx-auto font-normal">
             무거웠던 기존 워드프로세서에서 벗어나세요. DOC3는 꼭 필요한 기본 기능만을 담아 빠르고 쾌적한 문서 작성 경험을 선사합니다.
@@ -92,8 +91,8 @@ export default function LandingPage() {
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
             <div className="bg-white p-8 rounded-2xl border border-slate-200/80 shadow-sm space-y-4">
               <div className="w-12 h-12 bg-blue-50 text-blue-600 rounded-xl flex items-center justify-center font-bold text-lg">HWP</div>
-              <h3 className="text-xl font-bold text-slate-900">한글 문서 (HWP)</h3>
-              <p className="text-slate-600 text-sm leading-relaxed">공공기관 및 국내 업무 환경에서 필수적인 HWP 포맷을 완벽하게 지원하여 호환성 문제를 해결합니다.</p>
+              <h3 className="text-xl font-bold text-slate-900">한글 문서 (HWP/HWPX)</h3>
+              <p className="text-slate-600 text-sm leading-relaxed">공공기관 및 국내 업무 환경에서 필수적인 HWP 포맷을 완벽하게 지원하여 호환성 문제를 해결합니다. HWP와 개방형 문서 포멧인 HWPX를 모두 지원합니다.</p>
             </div>
             <div className="bg-white p-8 rounded-2xl border border-slate-200/80 shadow-sm space-y-4">
               <div className="w-12 h-12 bg-blue-50 text-blue-600 rounded-xl flex items-center justify-center font-bold text-lg">DOCX</div>
