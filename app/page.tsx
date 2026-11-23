@@ -71,7 +71,7 @@ export default function LandingPage() {
             <span className="text-xl font-black tracking-tight text-slate-900">DOC3</span>
           </div>
           <nav className="hidden md:flex items-center space-x-8 text-sm font-medium text-slate-600">
-            <a href="#ai-assistant" className="hover:text-emerald-600 transition flex items-center gap-1 font-semibold text-emerald-600">
+            <a href="#ai-assistant" className="hover:text-cyan-600 transition flex items-center gap-1 font-semibold text-cyan-600">
               <Sparkles className="w-3.5 h-3.5" />
               AI 어시스턴트
             </a>
@@ -84,7 +84,7 @@ export default function LandingPage() {
               href="https://webdoc3.vercel.app/" 
               target="_blank" 
               rel="noopener noreferrer" 
-              className="flex items-center space-x-2 bg-emerald-600 hover:bg-emerald-700 text-white px-4 py-2 rounded-xl text-sm font-medium transition shadow-sm shadow-emerald-500/20"
+              className="flex items-center space-x-2 bg-cyan-800 hover:bg-cyan-600 text-white px-4 py-2 rounded-xl text-sm font-medium transition shadow-sm shadow-emerald-500/20"
             >
               <Globe className="w-4 h-4" />
               <span>웹버전 실행</span>
@@ -107,13 +107,13 @@ export default function LandingPage() {
       {/* 히어로 섹션 */}
       <section className="relative overflow-hidden py-24 lg:py-32 bg-gradient-to-b from-emerald-50/70 via-teal-50/30 to-white">
         <div className="max-w-5xl mx-auto px-6 text-center space-y-8">
-          <div className="inline-flex items-center space-x-2 bg-emerald-100/80 border border-emerald-200/60 text-emerald-700 px-3.5 py-1.5 rounded-full text-xs font-semibold shadow-sm">
-            <Sparkles className="w-3.5 h-3.5 text-emerald-600" />
+          <div className="inline-flex items-center space-x-2 bg-emerald-100/80 border border-emerald-200/60 text-cyan-700 px-3.5 py-1.5 rounded-full text-xs font-semibold shadow-sm">
+            <Sparkles className="w-3.5 h-3.5 text-cyan-600" />
             <span>AI 어시스턴트 연동으로 더욱 스마트해진 오픈 워드프로세서</span>
           </div>
           <h1 className="text-4xl lg:text-6xl font-extrabold tracking-tight text-slate-900 leading-tight">
             가벼움에 지능을 더하다 <br className="hidden sm:block" />
-            <span className="text-emerald-600">DOC3</span>와 함께 시작하세요
+            <span className="text-cyan-800">DOC3</span>와 함께 시작하세요
           </h1>
           <p className="text-lg lg:text-xl text-slate-600 max-w-2xl mx-auto font-normal leading-relaxed">
             무거웠던 기존 워드프로세서에서 벗어나세요. 초경량 편집 환경에 내장된 <strong>AI 어시스턴트</strong>가 초안 작성부터 요약, 문장 교정까지 빠르고 쾌적하게 도와줍니다.
@@ -124,7 +124,7 @@ export default function LandingPage() {
               href="https://webdoc3.vercel.app/" 
               target="_blank" 
               rel="noopener noreferrer" 
-              className="w-full sm:w-auto flex items-center justify-center space-x-2 bg-emerald-600 hover:bg-emerald-700 text-white px-8 py-3.5 rounded-xl font-semibold transition shadow-lg shadow-emerald-600/20"
+              className="w-full sm:w-auto flex items-center justify-center space-x-2 bg-cyan-800 hover:bg-cyan-600 text-white px-8 py-3.5 rounded-xl font-semibold transition shadow-lg shadow-emerald-600/20"
             >
               <Globe className="w-5 h-5" />
               <span>웹버전 바로 사용해보기</span>
@@ -147,7 +147,7 @@ export default function LandingPage() {
         <div className="max-w-7xl mx-auto px-6">
           <div className="bg-gradient-to-br from-slate-900 via-slate-900 to-teal-950 rounded-3xl p-8 md:p-14 text-white shadow-xl overflow-hidden relative">
             <div className="max-w-3xl space-y-4 mb-12">
-              <div className="inline-flex items-center space-x-2 bg-emerald-500/20 border border-emerald-400/30 text-emerald-300 px-3 py-1 rounded-full text-xs font-semibold">
+              <div className="inline-flex items-center space-x-2 bg-cyan-500/20 border border-cyan-400/30 text-cyan-300 px-3 py-1 rounded-full text-xs font-semibold">
                 <Bot className="w-4 h-4" />
                 <span>DOC3 AI Assistant</span>
               </div>
